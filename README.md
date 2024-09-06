@@ -31,7 +31,6 @@ Esta aplicação web simples permite que os usuários pesquisem por termos relac
 - **JavaScript**: Funcionalidade dinâmica e interação com o usuário.
 
 
-**Contribuições:**
 
 ## Contribuições são bem-vindas! Para contribuir com este projeto:
 
